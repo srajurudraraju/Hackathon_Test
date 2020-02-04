@@ -1,2 +1,6 @@
 tenets:
   - import: codelingo/go
+  
+  actions:
+  codelingo/review:
+    comment: "This is a function named helloWorld."
