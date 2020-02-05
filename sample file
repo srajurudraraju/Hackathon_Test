@@ -1,3 +1,4 @@
 foc r i in 0..5
+c = 1
 c = c++
 end
