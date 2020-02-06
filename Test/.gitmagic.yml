@@ -1,7 +1,7 @@
 
 file_length:
-  - 1 #warning
-  - 2 #error
+  - 10 #warning
+  - 200 #error
    
 
    
